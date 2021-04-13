@@ -29,6 +29,6 @@ Currently learning...
 Current project...
 
   A pathfinding visualizer written in Javascript for the web. 
-  The goal is to solidy my understanding of heaps and trees, 
-  BFS/DFS and algorithms such as Dijkstra's shortest path and A* search
-  while simultaneously providing a fluid UI and UX design.
+  The goal is to solidy my understanding of data structures
+  and algorithms related to search as well as principles of 
+  User interface design.
